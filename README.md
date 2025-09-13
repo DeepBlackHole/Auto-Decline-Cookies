@@ -29,4 +29,4 @@ Finds elements like < button >, < a >, < input > with text:
 
 Click on them if found
 
-Repeat check every 1 second for 15 seconds
+Repeat and check every 15 seconds

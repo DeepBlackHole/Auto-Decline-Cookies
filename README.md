@@ -27,6 +27,6 @@ Finds elements like < button >, < a >, < input > with text:
 
 * "Refuse"
 
-Click on them if found
+Clicks on them if found
 
-Repeat and check every 15 seconds
+Repeats every 15 seconds
